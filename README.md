@@ -1,3 +1,6 @@
+
+This repository is for my developer assessment bootcamp tasks.
+
 Overview
 This repository contains my solutions for the Python Developer Assessment Program.
 It demonstrates skills in Git, coding style, object-oriented programming, error handling, and API interaction.
@@ -25,3 +28,4 @@ Most challenging: Resolving Git merge conflicts and debugging runtime errors (li
 Most interesting: Using Black and Flake8 to see how automated tools enforce consistent style.
 
 Learned/Improved: How to interact with REST APIs using Python’s requests library, and how to structure projects with proper branching and commits.
+
